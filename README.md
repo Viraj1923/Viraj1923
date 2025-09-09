@@ -1,20 +1,18 @@
 # 💫 Hi 👋, I'm Viraj Mulik  
-**Final-Year CSE (AIML) Student | Full-Stack Developer **  
+**Final-Year CSE (AIML) Student | Full-Stack Developer**  
 
 🌍 From Kolhapur, India 🇮🇳 | 💻 Passionate about AI, Cloud, and Scalable Web Apps  
-📧 **Email:** virajmulik04@gmail.com  
-
-## 🚀 About Me  
-I’m deeply interested in building **scalable full-stack applications** and applying **AI/ML techniques** to solve real-world problems.   
-
-I enjoy collaborating on **AI/ML research, full-stack development, and cloud-native solutions**, and love exploring technologies such as **MERN, Machine Learning**.  
-
-📫 Reach me at: ✉️ **virajmulik04@gmail.com** 
-
-⚡ Fun fact: I turn ideas into working prototypes fast 🚀  
- 
+📧 **Email:** virajmulik04@gmail.com 
 
 ---
+
+## 🚀 About Me  
+I’m deeply interested in building **scalable full-stack applications** and applying **AI/ML techniques** to solve real-world problems.  
+
+I love collaborating on **AI/ML research, full-stack development, and cloud-native solutions**, while continuously exploring new technologies like **MERN and Machine Learning**.  
+
+⚡ **Fun fact:** I turn ideas into working prototypes fast 🚀  
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/viraj-mulik-9b4b8437a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:virajmulik2304@gmail.com) 
 
