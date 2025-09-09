@@ -3,7 +3,7 @@
 
 🌍 From Kolhapur, India 🇮🇳 | 💻 Passionate about AI, Cloud, and Scalable Web Apps  
 📧 **Email:** virajmulik04@gmail.com  
----
+
 ## 🚀 About Me  
 I’m deeply interested in building **scalable full-stack applications** and applying **AI/ML techniques** to solve real-world problems.   
 
