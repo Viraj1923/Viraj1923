@@ -2,7 +2,7 @@
 **Final-Year CSE (AIML) Student | Full-Stack Developer**  
 
 🌍 From Kolhapur, India 🇮🇳 | 💻 Passionate about AI, Cloud, and Scalable Web Apps  
-📧 **Email:** virajmulik04@gmail.com 
+📧 **Email:** virajmulik2304@gmail.com 
 
 ---
 
