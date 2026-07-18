@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building full-stack applications and AI-powered solutions<br><br>💻 Interested in backend systems, scalable architectures, and modern web technologies<br><br>📄 Co-authored a research paper in the field of Artificial Intelligence<br><br>⚙️ Experienced with React, Node.js, Express, FastAPI, MongoDB, and PostgreSQL<br><br>☁️ Exploring cloud technologies and software engineering practices
+🔭 Building full-stack applications and AI-powered solutions<br><br>💻 Interested in backend systems, scalable architectures, and modern web technologies<br><br>📄 Co-authored a research paper in the field of Artificial Intelligence<br><br>☁️ Exploring cloud technologies and software engineering practices
 
 
 ## 🌐 Socials:
